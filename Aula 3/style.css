@@ -1,0 +1,24 @@
+h1{color:black;
+}
+
+.titulo{color: aqua;
+}
+
+h2{color: gold;
+}
+
+div{
+    border: 1px solid blue;
+    padding: 10px;
+    margin: 100px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px ;
+    border: none;
+}
+
+button{border-radius: 10px;color: blueviolet;  
+font-size: 20px;
+}
+
+.btm{color:blue; font-size: 30px;
+}

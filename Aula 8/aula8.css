@@ -1,0 +1,56 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+
+nav{
+    position: fixed;
+    width: 100%;
+    background-color: rgb(68, 63, 63);
+    padding: 15px 0px;
+    text-align: center;
+}
+
+nav a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 0px 30px;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+
+section{
+    height: 100vh;
+    padding-top: 60px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#menu{background-color: chocolate;}
+#cadastro{background-color: burlywood;}
+#login{background-color: rgb(214, 214, 196)
+}
+
+form{background-color: aliceblue;
+margin: auto;
+width: 300px;
+padding: 10px 12px;
+box-shadow: 20px 20px 10px;
+color: rgb(133, 128, 128);
+}
+label{
+    display: block;
+    padding: 5px;
+}
+.sexo label{
+    display: inline;
+    
+}
+.termos{
+    display: inline;
+    font-size: 12px;
+}
+html{
+    scroll-behavior: smooth;
+}
